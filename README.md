@@ -3,12 +3,12 @@
 
 
 Passionate software engineer with a background in landscape architecture. Currently enrolled at 42 Berlin and close to graduation, I'm looking forward to finding a job in the field.  
-🐙 **Always curious, learning fast.** 🐙
+🐙 *Always curious, learning fast.* 🐙
 
 
 
-- 🔭 I’m currently working on [transcendence](https://github.com/sidechained/transcendence) :  
-##a onepage fullstack website to play pong. Some features implemented are: a chat, private messages, friends list, profiles, a match-making system, a spectating system and UX/UI custom settings.##
+<h4 align="left">- 🔭 I’m currently working on [transcendence](https://github.com/sidechained/transcendence):</h4>  
+*a onepage fullstack website to play pong. Some features implemented are: a chat, private messages, friends list, profiles, a match-making system, a spectating system and UX/UI custom settings.*
 
 - 🌱 I’m currently learning **Python, JavaScript**
 
