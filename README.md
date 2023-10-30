@@ -23,8 +23,8 @@
 
 ## 42 Projects
 <div align="center">
-<a width="60" href="https://github.com/mcombeau/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a>
-<a width="60" href="https://github.com/mcombeau/get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png)</a>
+<a width="60" href="https://github.com/mcombeau/libft"></a>
+<a width="60" href="https://github.com/mcombeau/get_next_line"></a>
 <img width="60" src="https://github.com/mvomiero/mvomiero/blob/main/badges/born2beroote.png">
 <img width="60" src="https://github.com/mvomiero/mvomiero/blob/main/badges/cub3de.png">
 </div>
