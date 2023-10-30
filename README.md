@@ -22,8 +22,8 @@
 
 
 ## 42 Projects 
-<img width="60" src="https://github.com/mvomiero/mvomiero/blob/main/badges/born2beroote.png">
-<img width="60" src="https://github.com/mvomiero/mvomiero/blob/main/badges/cub3de.png">
+<img width="60" alt="Screenshot 2023-06-01 at 13 25 50"  src="https://github.com/mvomiero/mvomiero/blob/main/badges/born2beroote.png">
+<img width="60" alt="Screenshot 2023-06-01 at 13 25 50"  src="https://github.com/mvomiero/mvomiero/blob/main/badges/cub3de.png">
 </p>
 
 <!--
