@@ -7,8 +7,8 @@ Passionate software engineer with a background in landscape architecture. Curren
 
 
 
-<h4 align="left">- 🔭 I’m currently working on [transcendence](https://github.com/sidechained/transcendence):</h4>  
-*a onepage fullstack website to play pong. Some features implemented are: a chat, private messages, friends list, profiles, a match-making system, a spectating system and UX/UI custom settings.*
+- 🔭 I’m currently working on [transcendence](https://github.com/sidechained/transcendence) :  
+*a onepage fullstack website to play pong. Some features implemented are: a chat, private messages, friends list, profiles, a match-making system, a spectating system and UX/UI custom settings.
 
 - 🌱 I’m currently learning **Python, JavaScript**
 
