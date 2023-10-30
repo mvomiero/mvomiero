@@ -24,7 +24,7 @@
 ## 42 School Projects
 
 - **Level 00**: *[Libft](https://github.com/mvomiero/42_libft) recode part of the C standard library*
-- **Level 01**: * **yo** recode part of the C standard library*
+- **Level 01**: ***yo** recode part of the C standard library*
 
 
 
