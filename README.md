@@ -22,7 +22,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mvomiero&" alt="mvomiero" /></p>
 
-
+## 42 Projects 
+<!--  Libft -->
+<img width="60" src="https://github.com/mvomiero/mvomiero/blob/main/badges/born2beroote.png">
 
 <!--
 **mvomiero/mvomiero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
