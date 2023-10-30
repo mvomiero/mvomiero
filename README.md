@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Marco</h1>
 <!-- <h3 align="center">A passionate software engineer located in Berlin</h3> -->
 
-<div style="text-align:center">
-  <strong><span style="color:red">Passionate software engineer with a background in landscape architecture.</span></strong>
-  Currently enrolled at 42 Berlin and close to graduation, I'm looking forward to finding a job in the field. 🐙 Always curious, learning fast. 🐙
-</div>
+<h4 align="center">
+Passionate software engineer with a background in landscape architecture. Currently enrolled at 42 Berlin and close to graduation, I'm looking forward to finding a job in the field. 🐙 Always curious, learning fast. 🐙
+</h4>
+
 
 
 - 🔭 I’m currently working on [transcendence](https://github.com/sidechained/transcendence) :  
