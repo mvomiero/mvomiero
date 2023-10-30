@@ -1,20 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Marco</h1>
-<!-- <h3 align="center">A passionate software engineer located in Berlin</h3> -->
 
-
-**Passionate software engineer with a background in landscape architecture. Currently enrolled at [42 Berlin](https://42berlin.de/) and close to graduation, I'm looking forward to find a job in the field.**  
-🐙 *Always curious, learning fast.* 🐙  
-
-
+**Passionate software engineer with a background in landscape architecture. Currently enrolled at [42 Berlin](https://42berlin.de/) and nearing graduation, I'm excited to find a job in the field.**  
+🐙 *Always curious and a fast learner.* 🐙  
 
 - 🔭 **I’m currently working on [transcendence](https://github.com/sidechained/transcendence):**  
-*a onepage fullstack website to play pong. Some features implemented are: a chat, private messages, friends list, profiles, a match-making system, a spectating system and UX/UI custom settings.*
+*A one-page full-stack website to play Pong. It includes features like a chat, private messages, a friends list, profiles, a matchmaking system, a spectating system, and customizable UX/UI settings.*
 
 - 🌱 **I’m currently learning Python and JavaScript**  
-*currently enrolled at [Udemy - Machine Learning A-Z](https://www.udemy.com/course/machinelearning/) and [Coursera - Andrew Ng’s Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)*
+*Currently, I'm enrolled in [Udemy's Machine Learning A-Z](https://www.udemy.com/course/machinelearning/) and [Coursera's Andrew Ng’s Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction).*
 
 - 🚀 **Dream project:**  
-*Combining climatic, geographic and esthetic datas about plant to produce climate adapled innovative ai produced plant palettes for garden or landscape design and planning*
+*Combining climatic, geographic, and aesthetic data about plants to produce climate-adapted innovative AI-generated plant palettes for garden or landscape design and planning.*
+
 
 
 ## Tech stack:
@@ -22,17 +19,17 @@
 
 
 ## 42 School Projects
-Selection of 42 projects (more on my repositories section)
+Selection of 42 projects (more in my repositories section)
 
 - [WebServer](https://github.com/sidechained/webServ) *HTTP web server in C++*
 - [CPP Modules](https://github.com/mvomiero/42_CPP) *C++*
 - [Inception](https://github.com/mvomiero/42_inception) *Creation of a LEMP (Linux, Nginx, MySQL, PHP) stack using Docker*
 - [miniRT](https://github.com/mvomiero/42_miniRT) *Ray tracing rendering project*
-- [Philosophers](https://github.com/mvomiero/42_Philosophers) *Multithreading in C to solve the  dining philosophers problem*
-- [Minishell](https://github.com/flo-12/minishell) *recoding a mini version of bash*
+- [Philosophers](https://github.com/mvomiero/42_Philosophers) *Multithreading in C to solve the dining philosophers problem*
+- [Minishell](https://github.com/flo-12/minishell) *Recoding a mini version of bash*
 - [fract-ol](https://github.com/mvomiero/42_fract-ol) *2D programming and the psychedelic universe of fractals*
 - [push-swap](https://github.com/mvomiero/42_push_swap) *Sorting data on a stack, with a limited set of instructions, and the smallest number of moves.*
-- [Libft](https://github.com/mvomiero/42_libft) *recode part of the C standard library*
+- [Libft](https://github.com/mvomiero/42_libft) *Recoding part of the C standard library*
 
 
 
