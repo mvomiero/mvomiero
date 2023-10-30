@@ -24,6 +24,14 @@
 ## 42 School Projects
 Selection of 42 projects (more on my repositories section)
 
+- [WebServer](https://github.com/sidechained/webServ) *HTTP web server in C++*
+- [CPP Modules](https://github.com/mvomiero/42_CPP) *C++*
+- [Inception](https://github.com/mvomiero/42_inception) *Creation of a LEMP (Linux, Nginx, MySQL, PHP) stack using Docker*
+- [miniRT](https://github.com/mvomiero/42_miniRT) *Ray tracing rendering project*
+- [Philosophers](https://github.com/mvomiero/42_Philosophers) *Multithreading in C to solve the  dining philosophers problem*
+- [Minishell](https://github.com/flo-12/minishell) *recoding a mini version of bash*
+- [fract-ol](https://github.com/mvomiero/42_fract-ol) *2D programming and the psychedelic universe of fractals*
+- [push-swap](https://github.com/mvomiero/42_push_swap) *Sorting data on a stack, with a limited set of instructions, and the smallest number of moves.*
 - [Libft](https://github.com/mvomiero/42_libft) *recode part of the C standard library*
 
 
