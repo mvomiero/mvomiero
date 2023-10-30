@@ -23,9 +23,8 @@
 
 ## 42 School Projects
 
-- Level 00
-	- ciao
-	- come
+- **Level 00**:  
+[Libft](https://github.com/mvomiero/42_libft) recode part of the C standard library
 
 
 
