@@ -2,16 +2,20 @@
 <!-- <h3 align="center">A passionate software engineer located in Berlin</h3> -->
 
 
-Passionate software engineer with a background in landscape architecture. Currently enrolled at 42 Berlin and close to graduation, I'm looking forward to finding a job in the field.  
-🐙 *Always curious, learning fast.* 🐙
+**Passionate software engineer with a background in landscape architecture. Currently enrolled at [42 Berlin](https://42berlin.de/) and close to graduation, I'm looking forward to find a job in the field.**  
+🐙 *Always curious, learning fast.* 🐙  
 
 
 
 - 🔭 **I’m currently working on [transcendence](https://github.com/sidechained/transcendence):**  
 *a onepage fullstack website to play pong. Some features implemented are: a chat, private messages, friends list, profiles, a match-making system, a spectating system and UX/UI custom settings.*
 
-- 🌱 **I’m currently learning Python, JavaScript**  
+- 🌱 **I’m currently learning Python and JavaScript**  
 *currently enrolled at [Udemy - Machine Learning A-Z](https://www.udemy.com/course/machinelearning/) and [Coursera - Andrew Ng’s Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)*
+
+- 🚀 **Dream project:**  
+*Combining climatic, geographic and esthetic datas about plant to produce climate adapled innovative ai produced plant palettes for garden or landscape design and planning
+
 
 
 <h3 align="left">Languages and Tools:</h3>
