@@ -23,8 +23,8 @@
 
 ## 42 School Projects
 
-- **Level 00**: *[Libft](https://github.com/mvomiero/42_libft) recode part of the C standard library*
-- **Level 01**: ***yo** recode part of the C standard library*
+- **Level 00**: ***[Libft](https://github.com/mvomiero/42_libft)** recode part of the C standard library*
+- **Level 01**: ***Born2beroot** virtual machines and system administration, **[ft_printf](https://github.com/mvomiero/42_ft_printf)** recode printf(), **[get_next_line](https://github.com/mvomiero/42_ft_printf)** recode getline()*
 
 
 
