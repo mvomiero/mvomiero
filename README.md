@@ -24,6 +24,7 @@
 ## 42 Projects 
 <img width="60" src="https://github.com/mvomiero/mvomiero/blob/main/badges/born2beroote.png">
 <img width="60" src="https://github.com/mvomiero/mvomiero/blob/main/badges/cub3de.png">
+</p>
 
 <!--
 **mvomiero/mvomiero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
