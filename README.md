@@ -2,7 +2,8 @@
 <!-- <h3 align="center">A passionate software engineer located in Berlin</h3> -->
 
 
-Passionate software engineer with a background in landscape architecture. Currently enrolled at 42 Berlin and close to graduation, I'm looking forward to finding a job in the field. 🐙 Always curious, learning fast. 🐙
+Passionate software engineer with a background in landscape architecture. Currently enrolled at 42 Berlin and close to graduation, I'm looking forward to finding a job in the field.  
+🐙 **Always curious, learning fast.** 🐙
 
 
 
