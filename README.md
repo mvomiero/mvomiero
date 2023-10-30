@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Marco</h1>
 <!-- <h3 align="center">A passionate software engineer located in Berlin</h3> -->
 
-Passionate software engineer with a background in landscape architecture. Currently enrolled at 42 Berlin and close to graduation, I'm looking forward to find a job in the field. :octopus: *** Always curios, learning fast. *** 
+Passionate software engineer with a background in landscape architecture. Currently enrolled at 42 Berlin and close to graduation, I'm looking forward to find a job in the field. 🐙 *** Always curios, learning fast. *** 🐙
 
-- 🔭 I’m currently working on [transcendence](https://github.com/sidechained/transcendence) :
+- 🔭 I’m currently working on [transcendence](https://github.com/sidechained/transcendence) :  
 *a onepage fullstack website to play pong. Some features implemented are: a chat, private messages, friends list, profiles, a match-making system, a spectating system and UX/UI custom settings.*
 
 - 🌱 I’m currently learning **Python, JavaScript**
